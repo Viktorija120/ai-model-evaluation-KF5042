@@ -1,5 +1,6 @@
 # ai-model-evaluation-KF5042
 Repository for model evaluation for KF5042
+Author: Viktorija Ivanova
 
 This has to be entered into Terminal to install necessary libraries
 ```
